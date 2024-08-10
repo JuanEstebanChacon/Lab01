@@ -46,23 +46,23 @@
               <Group type="102" attributes="0">
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Component id="Pantalla" max="32767" attributes="0"/>
+                      <Component id="txtPantalla" max="32767" attributes="0"/>
                       <Group type="102" attributes="0">
                           <Group type="103" groupAlignment="1" attributes="0">
                               <Group type="102" attributes="0">
-                                  <Component id="cero" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttncero" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="coma" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttncoma" min="-2" pref="63" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" attributes="0">
-                                  <Component id="uno" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttnuno" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="dos" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttndos" min="-2" pref="63" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" attributes="0">
-                                  <Component id="cuatro" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttncuatro" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="cinco" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttncinco" min="-2" pref="63" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                           <EmptySpace max="-2" attributes="0"/>
@@ -70,49 +70,49 @@
                               <Group type="102" attributes="0">
                                   <Group type="103" groupAlignment="0" attributes="0">
                                       <Group type="102" attributes="0">
-                                          <Component id="tres" min="-2" pref="63" max="-2" attributes="0"/>
+                                          <Component id="bttntres" min="-2" pref="63" max="-2" attributes="0"/>
                                           <EmptySpace max="-2" attributes="0"/>
-                                          <Component id="suma" min="-2" pref="63" max="-2" attributes="0"/>
+                                          <Component id="bttnsuma" min="-2" pref="63" max="-2" attributes="0"/>
                                       </Group>
-                                      <Component id="igual" alignment="1" min="-2" pref="63" max="-2" attributes="0"/>
+                                      <Component id="bttnigual" alignment="1" min="-2" pref="63" max="-2" attributes="0"/>
                                   </Group>
                                   <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                               </Group>
                               <Group type="102" attributes="0">
-                                  <Component id="seis" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttnseis" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="32767" attributes="0"/>
-                                  <Component id="resta" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttnresta" min="-2" pref="63" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                       </Group>
                       <Group type="102" alignment="0" attributes="0">
-                          <Component id="siete" min="-2" pref="63" max="-2" attributes="0"/>
+                          <Component id="bttnsiete" min="-2" pref="63" max="-2" attributes="0"/>
                           <EmptySpace max="-2" attributes="0"/>
-                          <Component id="ocho" min="-2" pref="63" max="-2" attributes="0"/>
+                          <Component id="bttnocho" min="-2" pref="63" max="-2" attributes="0"/>
                           <EmptySpace max="-2" attributes="0"/>
-                          <Component id="nueve" min="-2" pref="63" max="-2" attributes="0"/>
+                          <Component id="bttnnueve" min="-2" pref="63" max="-2" attributes="0"/>
                           <EmptySpace max="32767" attributes="0"/>
-                          <Component id="multiplicacion" min="-2" pref="63" max="-2" attributes="0"/>
+                          <Component id="bttnmultiplicacion" min="-2" pref="63" max="-2" attributes="0"/>
                       </Group>
                       <Group type="102" attributes="0">
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="102" attributes="0">
-                                  <Component id="raiz" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttnraiz" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="exponente" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttnexponente" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="division" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttndivision" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="delete" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttndelete" min="-2" pref="63" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
-                                  <Component id="seno" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttnseno" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="coseno" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttncoseno" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="tangente" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttntangente" min="-2" pref="63" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
-                                  <Component id="ac" min="-2" pref="63" max="-2" attributes="0"/>
+                                  <Component id="bttnac" min="-2" pref="63" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                           <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
@@ -126,47 +126,47 @@
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
                   <EmptySpace max="-2" attributes="0"/>
-                  <Component id="Pantalla" min="-2" pref="42" max="-2" attributes="0"/>
+                  <Component id="txtPantalla" min="-2" pref="42" max="-2" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="seno" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="coseno" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="tangente" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="ac" alignment="3" min="-2" max="-2" attributes="0"/>
-                  </Group>
-                  <EmptySpace max="32767" attributes="0"/>
-                  <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="raiz" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="exponente" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="division" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="delete" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnseno" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttncoseno" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttntangente" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnac" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="siete" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="ocho" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="nueve" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="multiplicacion" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnraiz" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnexponente" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttndivision" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttndelete" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="bttnsiete" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnocho" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnnueve" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnmultiplicacion" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="cuatro" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="cinco" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="seis" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="resta" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttncuatro" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttncinco" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnseis" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnresta" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="uno" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="dos" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="tres" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="suma" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnuno" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttndos" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttntres" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnsuma" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="coma" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="cero" alignment="3" min="-2" max="-2" attributes="0"/>
-                      <Component id="igual" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttncoma" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttncero" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="bttnigual" alignment="3" min="-2" max="-2" attributes="0"/>
                   </Group>
                   <EmptySpace max="-2" attributes="0"/>
               </Group>
@@ -174,12 +174,11 @@
         </DimensionLayout>
       </Layout>
       <SubComponents>
-        <Component class="javax.swing.JLabel" name="Pantalla">
+        <Component class="javax.swing.JLabel" name="txtPantalla">
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="0"/>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
                 <MatteColorBorder/>
@@ -189,188 +188,188 @@
             <Property name="opaque" type="boolean" value="true"/>
           </Properties>
         </Component>
-        <Component class="javax.swing.JButton" name="cero">
+        <Component class="javax.swing.JButton" name="bttncero">
           <Properties>
             <Property name="text" type="java.lang.String" value="0"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ceroActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnceroActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="coma">
+        <Component class="javax.swing.JButton" name="bttncoma">
           <Properties>
-            <Property name="text" type="java.lang.String" value=","/>
+            <Property name="text" type="java.lang.String" value="."/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="comaActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttncomaActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="uno">
+        <Component class="javax.swing.JButton" name="bttnuno">
           <Properties>
             <Property name="text" type="java.lang.String" value="1"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="unoActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnunoActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="dos">
+        <Component class="javax.swing.JButton" name="bttndos">
           <Properties>
             <Property name="text" type="java.lang.String" value="2"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="dosActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttndosActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="tres">
+        <Component class="javax.swing.JButton" name="bttntres">
           <Properties>
             <Property name="text" type="java.lang.String" value="3"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tresActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttntresActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="cuatro">
+        <Component class="javax.swing.JButton" name="bttncuatro">
           <Properties>
             <Property name="text" type="java.lang.String" value="4"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cuatroActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttncuatroActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="cinco">
+        <Component class="javax.swing.JButton" name="bttncinco">
           <Properties>
             <Property name="text" type="java.lang.String" value="5"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cincoActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttncincoActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="seis">
+        <Component class="javax.swing.JButton" name="bttnseis">
           <Properties>
             <Property name="text" type="java.lang.String" value="6"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="seisActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnseisActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="siete">
+        <Component class="javax.swing.JButton" name="bttnsiete">
           <Properties>
             <Property name="text" type="java.lang.String" value="7"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="sieteActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnsieteActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="ocho">
+        <Component class="javax.swing.JButton" name="bttnocho">
           <Properties>
             <Property name="text" type="java.lang.String" value="8"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ochoActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnochoActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="nueve">
+        <Component class="javax.swing.JButton" name="bttnnueve">
           <Properties>
             <Property name="text" type="java.lang.String" value="9"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nueveActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnnueveActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="igual">
+        <Component class="javax.swing.JButton" name="bttnigual">
           <Properties>
             <Property name="text" type="java.lang.String" value="="/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="igualActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnigualActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="suma">
+        <Component class="javax.swing.JButton" name="bttnsuma">
           <Properties>
             <Property name="text" type="java.lang.String" value="+"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="sumaActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnsumaActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="resta">
+        <Component class="javax.swing.JButton" name="bttnresta">
           <Properties>
             <Property name="text" type="java.lang.String" value="-"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="restaActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnrestaActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="multiplicacion">
+        <Component class="javax.swing.JButton" name="bttnmultiplicacion">
           <Properties>
             <Property name="text" type="java.lang.String" value="x"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="multiplicacionActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnmultiplicacionActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="division">
+        <Component class="javax.swing.JButton" name="bttndivision">
           <Properties>
             <Property name="text" type="java.lang.String" value="/"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="divisionActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttndivisionActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="exponente">
+        <Component class="javax.swing.JButton" name="bttnexponente">
           <Properties>
             <Property name="text" type="java.lang.String" value="^"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="exponenteActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnexponenteActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="raiz">
+        <Component class="javax.swing.JButton" name="bttnraiz">
           <Properties>
             <Property name="text" type="java.lang.String" value="^(1/...)"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="raizActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnraizActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="seno">
+        <Component class="javax.swing.JButton" name="bttnseno">
           <Properties>
             <Property name="text" type="java.lang.String" value="Sen"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="senoActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnsenoActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="coseno">
+        <Component class="javax.swing.JButton" name="bttncoseno">
           <Properties>
             <Property name="text" type="java.lang.String" value="Cos"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cosenoActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttncosenoActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="tangente">
+        <Component class="javax.swing.JButton" name="bttntangente">
           <Properties>
             <Property name="text" type="java.lang.String" value="Tang"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tangenteActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttntangenteActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="ac">
+        <Component class="javax.swing.JButton" name="bttnac">
           <Properties>
             <Property name="text" type="java.lang.String" value="AC"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="acActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttnacActionPerformed"/>
           </Events>
         </Component>
-        <Component class="javax.swing.JButton" name="delete">
+        <Component class="javax.swing.JButton" name="bttndelete">
           <Properties>
             <Property name="text" type="java.lang.String" value="DEL"/>
           </Properties>
           <Events>
-            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="deleteActionPerformed"/>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="bttndeleteActionPerformed"/>
           </Events>
         </Component>
       </SubComponents>
